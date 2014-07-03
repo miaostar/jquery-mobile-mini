@@ -3,7 +3,7 @@ jquery-mobile-mini
 
 自定义的jQuery Mobile类库,只保留常用的组件
 
-
+```
 jquery-mobile-animationComplete
 jquery-mobile-data
 jquery-mobile-ns
@@ -48,3 +48,4 @@ widgets-slash-loader
 widgets-slash-navbar
 widgets-slash-popup
 widgets-slash-toolbar
+```
